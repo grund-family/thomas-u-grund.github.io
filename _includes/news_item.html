@@ -1,0 +1,2 @@
+<article class="news-item"><time datetime="{{ include.n.date | date: '%Y-%m-%d' }}">{{ include.n.date | date: "%-d %b %Y" }}</time>
+<div><h3>{% if include.n.category %}<span class="tag">{{ include.n.category }}</span>{% endif %}<a href="{{ include.n.url | relative_url }}">{{ include.n.title }}</a></h3>{{ include.n.content }}</div></article>

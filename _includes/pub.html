@@ -1,0 +1,9 @@
+<article class="pub">
+<div class="cover" style="--h:{{ include.p.hue }}">{% if include.p.image %}<img src="{{ include.p.image | relative_url }}" alt="" loading="lazy">{% else %}<span>{{ include.p.venue }}</span>{% endif %}</div>
+<div class="meta">
+<h3>{% if include.p.doi != "" %}<a href="{{ include.p.doi }}">{{ include.p.title }}</a>{% else %}{{ include.p.title }}{% endif %}</h3>
+<p class="authors">{{ include.p.authors }}</p>
+<p class="venue"><em>{{ include.p.venue }}</em>, {{ include.p.year }}{% case include.p.type %}{% when "preprint" %} · preprint{% when "book-chapter" %} · book chapter{% when "book" %} · book{% when "software" %} · software{% endcase %}</p>
+{% if include.p.abstract != "" %}<details><summary>Abstract</summary><p>{{ include.p.abstract }}</p></details>{% endif %}
+<p class="plinks">{% if include.p.doi != "" %}<a href="{{ include.p.doi }}">Paper</a>{% endif %}{% if include.p.pdf %}<a href="{{ include.p.pdf | relative_url }}">PDF</a>{% endif %}{% if include.p.code %}<a href="{{ include.p.code }}">Code</a>{% endif %}</p>
+</div></article>

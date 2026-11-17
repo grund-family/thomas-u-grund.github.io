@@ -1,0 +1,281 @@
+# One entry per publication. Optional fields: image (e.g. /assets/journals/xyz.jpg), pdf, code, featured: true
+
+- title: "Network analysis"
+  authors: "T. Grund"
+  venue: "Elgar Encyclopedia of Economic Sociology"
+  year: 2026
+  type: book-chapter
+  doi: ""
+  hue: 359
+  abstract: ""
+  featured: false
+
+- title: "Cross-national and historical variation in relative age effects in professional football"
+  authors: "T. U. Grund"
+  venue: "PLoS ONE"
+  year: 2026
+  type: article
+  doi: "https://doi.org/10.1371/journal.pone.0354928"
+  hue: 88
+  abstract: "The relative age effect (RAE) - the overrepresentation of players born early in the selection year - is one of the most robust findings in sports science, yet how much it varies across countries and over time remains surprisingly underexplored. Drawing on birth-date data for 49,578 male professional footballers across 44 national systems and five birth cohorts (1985-2009), this study describes three patterns that have not previously been examined together. RAE magnitude varies enormously across national football systems, ranging from close to zero to birth-quarter gaps exceeding 40 percentage points. It has also increased across successive birth cohorts: players born in 2005-2009 show birth-quarter imbalances roughly 9 percentage points wider than those born in 1985-1989. Common macro-level indicators - national footballing strength, gross domestic product (GDP) per capita, and population - show at most weak and inconsistent associations with cross-national differences in RAE and do not account for the historical increase once country and cohort are held fixed. Together, these findings provide a comparative benchmark for understanding cross-national and historical variation in relative age effects."
+  featured: true
+
+- title: "Negative emotions concentrate while positive emotions diffuse in football fan rivalries"
+  authors: "T. U. Grund"
+  venue: "PLoS ONE"
+  year: 2026
+  type: article
+  doi: "https://doi.org/10.1371/journal.pone.0356757"
+  hue: 98
+  abstract: "BACKGROUND: Research on negativity bias demonstrates that negative information receives disproportionate cognitive attention at the individual level, but how this psychological mechanism shapes collective emotional patterns remains unclear. We investigate whether communities systematically concentrate negative emotions on fewer targets while distributing positive emotions more broadly. METHODS: We analyze 36,223 German football fans' reports of loved and hated clubs, measuring attention concentration using the Herfindahl-Hirschman Index (HHI). We distinguish between outgoing concentration (how communities allocate their own attention) and incoming concentration (how attention from others focuses on particular targets), testing whether concentration differs between positive and negative affect. RESULTS: Negative attention was significantly more concentrated than positive attention for both outgoing (M = 0.36 vs M = 0.23, p < 0.001) and incoming ties (M = 0.41 vs M = 0.33, p = 0.011). Love and hate concentration are weakly correlated (r = 0.26-0.32), indicating independent processes. Structural factors predict incoming but not outgoing concentration (Pseudo R2 = 0.14-0.35 vs R2 = 0.47-0.49), revealing asymmetric mechanisms of attention allocation versus attraction. CONCLUSIONS: Communities face cognitive constraints that produce systematic asymmetries in how they distribute emotional attention. These findings highlight how cognitive constraints shape collective emotional structures, with implications for political polarization, consumer behavior, and conflict dynamics."
+  featured: true
+
+- title: "Evolving homophily in higher education: how university settings transform international student relationships"
+  authors: "T. Grund, A. Tiernan, B. A. Negrea"
+  venue: "British Journal of Sociology of Education"
+  year: 2026
+  type: article
+  doi: "https://doi.org/10.1080/01425692.2026.2679479"
+  hue: 270
+  abstract: "Homophily research traditionally examines which similarities predict tie formation. This study extends this perspective by investigating how the foundations of homophilous relationships evolve over time through sustained institutional interaction. Drawing on in-depth interviews with international students at a German university, we analyse how educational settings enable relationships—initially grounded in one similarity (e.g. nationality, language)—to develop additional bases (e.g. shared values, emotional bonds). We identify four mechanisms—shared vulnerability, language lock-in, ritual anchoring, and material frictions—through which strategic connections evolve into multidimensional relationships. Rather than a sign of integration failure, co-national ties often serve as staging grounds for broader network development. Our findings suggest that curricular design and institutional temporality, not merely contact opportunities, shape meaningful cross-group connections that enhance belonging and academic success."
+  featured: true
+
+- title: "nwergm: Exponential random graph models in Stata. Manual"
+  authors: "T. U. Grund"
+  venue: "Software manual (Zenodo)"
+  year: 2026
+  type: software
+  doi: "https://doi.org/10.5281/zenodo.23661331"
+  hue: 128
+  abstract: ""
+  featured: false
+
+- title: "nwsaom: Stochastic actor-oriented models in Stata. Manual"
+  authors: "T. U. Grund"
+  venue: "Software manual (Zenodo)"
+  year: 2026
+  type: software
+  doi: "https://doi.org/10.5281/zenodo.23623807"
+  hue: 128
+  abstract: "This is the manual for nwsaom, a Stata package that estimates stochastic actor-oriented models (SAOMs, also called Siena models) for panel network data. nwsaom follows the R package RSiena: it uses the same model, effects, method-of-moments algorithm, defaults and output, and it adds maximum-likelihood and Bayesian estimation following multiSiena. Everything runs inside Stata, with the simulations in a compiled, multithreaded plugin. The manual describes the syntax and every option, the effect library with its RSiena names (> 90% effects of RSiena's effects table that fall within what nwsaom covers), network-behavior co-evolution, undirected and two-mode networks, several networks and behaviors, rate effects, missing data and composition change, goodness of fit, score tests, tests for time heterogeneity, effect importance and meta-analysis of separate groups. It also documents the validation against RSiena, the behaviors of RSiena that nwsaom reproduces, the stored results, and worked examples with the Glasgow friendship data. nwsaom requires the nwcommands core package. It is meant for researchers who work in Stata or prefer it to R. It is not a replacement for RSiena, which remains the reference implementation and the more complete program, and it is not affiliated with or endorsed by the Siena project. The software is free software under the GNU General Public License, version 3. Please cite this manual and report the version printed by nwsaom version."
+  featured: false
+
+- title: "Simulation"
+  authors: "T. U. Grund"
+  venue: "Elgar Encyclopedia of Economic Sociology (A. Maurer, Ed.)"
+  year: 2026
+  type: book-chapter
+  doi: ""
+  hue: 347
+  abstract: ""
+  featured: false
+
+- title: "Birds of a feather at first sight: Decomposing homophily into tie formation and persistence"
+  authors: "T. U. Grund"
+  venue: "Social Networks"
+  year: 2026
+  type: article
+  doi: "https://doi.org/10.1016/j.socnet.2026.08.002"
+  hue: 60
+  abstract: "Why do some social ties endure while others dissolve? Homophily research typically treats similarity as a single mechanism, conflating processes of tie formation and persistence. I develop a framework based on attribute observability, distinguishing between observable characteristics that guide formation under uncertainty and interaction-revealed attributes that shape tie retention. Using three-wave longitudinal friendship network data and Stochastic Actor-Oriented Models, I decompose homophily into creation and endowment effects across 28 grade networks. Observable attributes (gender, ethnicity) show strong formation effects but little persistence advantage. Interaction-revealed attributes show weaker and less precise patterns. These findings demonstrate that homophily is an information-conditional process and that standard models obscure its underlying mechanisms."
+  featured: true
+
+- title: "One body, many identities: a mathematical model of multidimensional segregation dynamics"
+  authors: "T. U. Grund"
+  venue: "Journal of Mathematical Sociology"
+  year: 2026
+  type: article
+  doi: "https://doi.org/10.1080/0022250x.2026.2670311"
+  hue: 48
+  abstract: "Individuals inhabit multiple social roles – citizen, neighbor, worker – but make residential decisions with a single body. Classic segregation models assume fixed, singular identities. This paper extends Schelling’s model by introducing agents with multidimensional identities and salience rules that determine which identity guides behavior. Across 1,920 simulations, we show that coordination failures produce persistent dissatisfaction and instability, while attention alignment can reduce or concentrate segregation. These findings challenge the assumption that identity complexity promotes integration. Instead, spatial outcomes depend on how identity salience is cognitively and socially managed. The model contributes to mathematical sociology and formal intersectionality by revealing how behavioral coordination mechanisms shape emergent patterns of segregation."
+  featured: false
+
+- title: "Social media use and adolescent depressive symptoms: The moderating roles of gender and parental monitoring"
+  authors: "T. U. Grund, H. Krüger, I. Pascu"
+  venue: "International Journal of Mental Health and Addiction"
+  year: 2025
+  type: article
+  doi: "https://doi.org/10.1007/s11469-025-01566-3"
+  hue: 24
+  abstract: "Social media use has significantly reshaped adolescents’ social experiences, raising substantial concerns about its impact on mental health. This study examines the association between social media usage intensity and depressive symptoms among adolescents, emphasizing the moderating roles of parental monitoring and gender. Using logistic regression analysis of the 2023 US Youth Risk Behavior Survey ( N = 10,334), results reveal that moderate and high social media use significantly increases depressive symptoms. Notably, higher parental monitoring mitigates these adverse effects. While females exhibit higher depressive symptoms overall, gender does not significantly moderate social media’s impact. This study highlights the importance of nuanced parental engagement and offers critical insights for policymakers and educators to foster healthier digital environments for adolescents."
+  featured: false
+
+- title: "Harmony on the Plate: Peer Networks and the Evolution of Adolescent Vegetarian Identities"
+  authors: "H. Krüger, R. Severijns, T. Grund, A. Tiernan, R. Hellpap"
+  venue: "OSF preprint"
+  year: 2025
+  type: preprint
+  doi: "https://doi.org/10.31234/osf.io/ndtrm_v2"
+  hue: 183
+  abstract: "Adolescence is a formative period for the development of dietary behaviors, yet little is known about how peer relationships shape vegetarianism during this life stage. Existing research on food-related peer influence has largely relied on cross-sectional or perceptual measures, limiting the ability to disentangle social influence from friendship selection processes. Drawing on theories of social influence and social selection, this study examines the co-evolution of friendship networks and vegetarianism adoption and maintenance among adolescents.Data stem from the longitudinal SOCIALBOND study conducted in North Rhine-Westphalia, Germany, comprising 1,372 students across 22 school cohorts followed from seventh to eighth grade. Using sociometric friendship network data and stochastic actor-oriented models (RSiena), we simultaneously model changes in friendship ties and vegetarianism to disentangle peer influence and friendship selection dynamics.Peer influence processes emerged more clearly than friendship selection effects. Adolescents in smaller grade-level networks were significantly more likely to maintain vegetarianism when they were connected to more vegetarian peers. No comparable influence effects were observed for the adoption of vegetarianism or within larger grade-level networks. Hence, friendship networks primarily reinforced existing vegetarianism rather than promoting new adoption. Results provide little evidence for friendship selection based on vegetarianism. In smaller year groups, vegetarianism did not significantly shape friendship formation or maintenance. In larger year groups, vegetarian-identifying adolescents were less likely to initiate new friendships, but more likely to maintain existing ties over time.These findings highlight that adolescent vegetarianism is socially embedded, but that peer dynamics operate mainly through reinforcement mechanisms and vary across network contexts."
+  featured: false
+
+- title: "Modellierung von Netzwerken in den Sozialwissenschaften"
+  authors: "T. Grund"
+  venue: "Handbuch Netzwerkforschung"
+  year: 2025
+  type: book-chapter
+  doi: ""
+  hue: 12
+  abstract: ""
+  featured: false
+
+- title: "Discrepancies in the perception of social support relationships (Stage 1 Registered Report)"
+  authors: "H. Krüger, T. Grund, S. Letina, E. Long, J. Riddell, C. Zucca, M. McCann"
+  venue: "OSF preprint"
+  year: 2024
+  type: preprint
+  doi: ""
+  hue: 183
+  abstract: ""
+  featured: false
+
+- title: "Simulation und Netzwerke"
+  authors: "T. Grund"
+  venue: "Handbuch Netzwerkforschung"
+  year: 2024
+  type: book-chapter
+  doi: ""
+  hue: 12
+  abstract: ""
+  featured: false
+
+- title: "Modeling diffusion through statistical network analysis: A simulation study and empirical application to same-sex marriage"
+  authors: "J. A. Elkink, T. U. Grund"
+  venue: "International Studies Quarterly"
+  year: 2022
+  type: article
+  doi: "https://doi.org/10.1093/isq/sqab087"
+  hue: 208
+  abstract: "The study of international relations by definition deals with interdependencies among countries. One form of interdependence between countries is the diffusion of country-level features, such as policies, political regimes, or conflict. In these studies, the outcome variable tends to be categorical, and the primary concern is the clustering of the outcome variable among connected countries. Statistically, such clustering is studied with spatial econometric models. This article instead proposes the use of a statistical network approach to model diffusion with a binary outcome variable. Using a statistical network instead of spatial econometric models allows for modeling autocorrelation in policy outcomes rather than the corresponding latent variable, and it simplifies the inclusion of temporal dynamics, higher level interdependencies, and interactions between network ties and country-level features. In our simulations, the performance of the Stochastic Actor-Oriented Model (SAOM) estimator is evaluated. Our simulation results show that spatial parameters and coefficients on additional covariates in a static binary spatial autoregressive model are accurately recovered when using SAOM. To demonstrate this model, the paper applies SAOM to original data on the international diffusion of same-sex marriage and gives practical instructions for using such models."
+  featured: false
+
+- title: "Network stability issues in a co-offending population"
+  authors: "C. Morselli, T. U. Grund, R. Boivin"
+  venue: "Crime and Networks (Lynne Rienner)"
+  year: 2015
+  type: book-chapter
+  doi: ""
+  hue: 66
+  abstract: ""
+  featured: false
+
+- title: "Role of Narrative and Social Networks in Thwarting Violence and Sexual Abuse in Young People’s Lives"
+  authors: "M. Hydén, D. Gadd, T. U. Grund"
+  venue: "British Journal of Social Work"
+  year: 2020
+  type: article
+  doi: "https://doi.org/10.1093/bjsw/bcz114"
+  hue: 329
+  abstract: "Combining narrative analysis with social network analysis, this article analyses the case of a young Swedish female who had been physically and sexually abused. We show how she became trapped in an abusive relationship at the age of fourteen years following social work intervention in her family home, and how she ultimately escaped from this abuse aged nineteen years. The analysis illustrates the significance of responses to interpersonal violence from the social networks that surround young people; responses that can both entrap them in abusive relationships by blaming them for their problems and enable them to escape abuse by recognising their strengths and facilitating their choices. The article argues that the case for social work approaches that envision young people’s social networks after protective interventions have been implemented. The article explains that such an approach has the potential to reconcile the competing challenges of being responsive to young people’s needs while anticipating the heightened risk of being exposed to sexual abuse young people face when estranged from their families or after their trust in professionals has been eroded."
+  featured: false
+
+- title: "Accusation and confession discrepancies in bullying: Dual-perspective networks and individual-level attributes"
+  authors: "T. G. Tatum, T. U. Grund"
+  venue: "Social Networks"
+  year: 2020
+  type: article
+  doi: ""
+  hue: 29
+  abstract: ""
+  featured: false
+
+- title: "Social simulation for a digital society: applications and innovations in computational social science"
+  authors: "D. Payne, J. A. Elkink, N. Friel, T. U. Grund, T. Hochstrasser, P. Lucas, A. Ottewill"
+  venue: "Springer"
+  year: 2019
+  type: book
+  doi: ""
+  hue: 78
+  abstract: ""
+  featured: false
+
+- title: "Some friends matter more than others: BMI clustering among adolescents in four European countries"
+  authors: "T. Grund, T. Tatum"
+  venue: "Network Science"
+  year: 2019
+  type: article
+  doi: "https://doi.org/10.1017/nws.2018.20"
+  hue: 121
+  abstract: "Previous research stresses the importance of social networks for obesity. We draw on friendship data from 18,133 adolescents in four European countries to investigate the relationship between individuals’ body mass index (BMI) and the BMI of their friends. Our study reveals strong evidence for BMI clustering in England, Germany, the Netherlands, and Sweden; adolescents tend to be friends with others who have a similar BMI. Furthermore, we extend current debate and explore friendship characteristics that moderate the relationship between social networks and BMI. We demonstrate that BMI clustering is more pronounced in (1) strong compared to weak friendships and (2) between adolescents of the same biological sex. These findings indicate thatmore research on social networks and health is needed which distinguishes between different kinds of relationships."
+  featured: false
+
+- title: "Residential Segregation and ‘Ethnic Flight’ vs. ‘Ethnic Avoidance’ in Sweden"
+  authors: "T. Müller, T. Grund, J. H. Koskinen"
+  venue: "European Sociological Review"
+  year: 2018
+  type: article
+  doi: "https://doi.org/10.1093/esr/jcy010"
+  hue: 290
+  abstract: "Residential segregation along ethnic categories has been associated with social disadvantages of minority group members. It is considered a driving factor in the reproduction of social inequalities and a pressing issue in many societies. While most research focuses on neighbourhood segregation in the United States, less is known about the origins of ethnic enclaves in European cities. We use complete data of residential moves within Stockholm municipality between 1990 and 2003 to test whether ‘ethnic flight’ or ‘ethnic avoidance’ drives segregation dynamics. On the macro level, we analyse the binary infrastructure of natives’ and immigrants’ movement flows between 128 neighbourhoods with exponential random graph models, which account for systemic dependencies in the structure of the housing market. On the micro level, we analyse individual-level panel data to account for differences between native and immigrant in- and out-movers. Our results show strong support for ‘ethnic avoidance’ on both levels—native Swedes avoid moving into neighbourhoods where ethnic minorities live. This is even more pronounced when controlling for socio-economic factors. At the same time, there is only little support for ‘ethnic flight’ on the micro level—native Swedes are only marginally more likely to move out of neighbourhoods where many immigrants live."
+  featured: false
+
+- title: "The Relational Value of Network Experience in Teams: Evidence From the English Premier League"
+  authors: "T. Grund"
+  venue: "American Behavioral Scientist"
+  year: 2016
+  type: article
+  doi: "https://doi.org/10.1177/0002764216643133"
+  hue: 96
+  abstract: "Previous studies indicate the importance of experience for the performance of teams. Theory suggests that working together allows individuals to (a) improve their knowledge about who knows (and can do) what and (b) facilitates learning to combine individual resources efficiently. Yet it remains elusive how experience translates into interaction patterns in teams. Drawing on unique data of career histories of 800 players and 283,259 passes between these players in 760 English Premier League soccer matches, I propose a new measure for network experience and demonstrate how it relates to network intensity and decentralization in teams. Soccer teams exhibit a higher passing rate when players know each other from before. At the same time, network experience has no effect on the decentralization of team play. Further dyadic analyses confirm these findings. Controlling for selection effects, two players are more likely to pass the ball between each other when they know each other more. Network experience affects the way team members interact and ultimately leads to performance outcomes."
+  featured: false
+
+- title: "Ethnic Homophily and Triad Closure: Mapping Internal Gang Structure Using Exponential Random Graph Models"
+  authors: "T. Grund, J. A. Densley"
+  venue: "Journal of Contemporary Criminal Justice"
+  year: 2014
+  type: article
+  doi: "https://doi.org/10.1177/1043986214553377"
+  hue: 250
+  abstract: "Previous studies indicate the importance of similarities between street gang members in terms of ethnicity for mapping the patterns of co-offending relationships within gangs. Individual members are more likely to co-offend with other members who are from the same ethnicity. Past studies, however, do not appropriately account for the fact that correlation between attributes of co-offending gang members may be driven by alternative mechanisms. Most importantly, the presence of clustering in networks can dramatically affect the assessment and make us believe that homophily—the deliberate choice to co-offend with others from the same ethnic group—is important while in fact it is not. In this article, we recreate the internal structure of a London-based street gang with exponential random graph (ERG) models. Our results refine the role of ethnicity for co-offending within gangs. While homophily is still prevalent, the effect diminishes when triad closure—the tendency for two individuals to offend with each other when they also offend with a common third person—is considered. Furthermore, we extend existing ERG specifications and investigate the interaction between ethnic homophily and triad closure. Findings indicate that ethnic homophily is even stronger when it is embedded in co-offending triads."
+  featured: false
+
+- title: "Multidimensional homophily in friendship networks"
+  authors: "P. Block, T. Grund"
+  venue: "Network Science"
+  year: 2014
+  type: article
+  doi: "https://doi.org/10.1017/nws.2014.17"
+  hue: 121
+  abstract: "Homophily - the tendency for individuals to associate with similar others - is one of the most persistent findings in social network analysis. Its importance is established along the lines of a multitude of sociologically relevant dimensions, e.g. sex, ethnicity and social class. Existing research, however, mostly focuses on one dimension at a time. But people are inherently multidimensional, have many attributes and are members of multiple groups. In this article, we explore such multidimensionality further in the context of network dynamics. Are friendship ties increasingly likely to emerge and persist when individuals have an increasing number of attributes in common? We analyze eleven friendship networks of adolescents, draw on stochastic actor-oriented network models and focus on the interaction of established homophily effects. Our results indicate that main effects for homophily on various dimensions are positive. At the same time, the interaction of these homophily effects is negative. There seems to be a diminishing effect for having more than one attribute in common. We conclude that studies of homophily and friendship formation need to address such multidimensionality further."
+  featured: false
+
+- title: "Why Your Friends Are More Important and Special Than You Think"
+  authors: "T. Grund"
+  venue: "Sociological Science"
+  year: 2014
+  type: article
+  doi: "https://doi.org/10.15195/v1.a10"
+  hue: 250
+  abstract: "Thomas U. Grund Sociological Science, April 14, 2014 DOI 10.15195/v1.a10 Abstract A large amount of research finds associations between individuals’ attributes and the position of individuals in network structures."
+  featured: false
+
+- title: "Punishing the Foreigner: Implicit Discrimination in the Premier League Based on Oppositional Identity*"
+  authors: "E. Gallo, T. Grund, J. J. Reade"
+  venue: "Oxford Bulletin of Economics and Statistics"
+  year: 2012
+  type: article
+  doi: "https://doi.org/10.1111/j.1468-0084.2012.00725.x"
+  hue: 52
+  abstract: "We present the first empirical study to reveal the presence of implicit discrimination in a non‐experimental setting. By using a large dataset of in‐match data in the English Premier League, we show that white referees award significantly more yellow cards against non‐white players of oppositional identity. We argue that this is the result of implicit discrimination by showing that this discriminatory behaviour: (i) increases in how rushed the referee is before making a decision, and (ii) it increases in the level of ambiguity of the decision. The variation in (i) and (ii) cannot be explained by any form of conscious discrimination such as taste‐based or statistical discrimination. Moreover, we show that oppositional identity players do not differ in their behaviour from other players along several dimensions related to aggressiveness and style of play providing further evidence that this is not statistical discrimination."
+  featured: false
+
+- title: "Ethnic heterogeneity in the activity and structure of a Black street gang"
+  authors: "T. Grund, J. A. Densley"
+  venue: "European Journal of Criminology"
+  year: 2012
+  type: article
+  doi: "https://doi.org/10.1177/1477370812447738"
+  hue: 184
+  abstract: "Despite acknowledgment of ‘hybrid’ street gangs in the literature, there is little systematic research into ethnic heterogeneity within gangs. This research aims at moving beyond the broad categorization of the Black street gang. For this purpose, we examine an all-Black London-based gang in detail, using fieldwork and police arrest data, and investigate the role of ethnic heterogeneity for the workings of the gang. Our findings suggest that ethnic heterogeneity within this gang is crucial for its criminal operation. Although there is no evidence for ethnicity-related specialization of crime, the structural co-offending pattern of the gang’s activities is dominated by ethnicity. Ethnicity matters for who offends with whom."
+  featured: false
+
+- title: "Network Dynamics and Market Structure: The Case of Art Fairs"
+  authors: "T. Yogev, T. Grund"
+  venue: "Sociological Focus"
+  year: 2012
+  type: article
+  doi: "https://doi.org/10.1080/00380237.2012.630846"
+  hue: 117
+  abstract: "Annual art fairs are a crucial element of the contemporary art market. Art galleries represent artists and exhibit their work at fairs all over the world. These fairs expose the gallery and its artists and create and maintain relationships with key actors in the global art market. Using data recording artists and galleries presenting at art fairs alongside qualitative interviews with different actors operating in the art market, we study the development of the art fair network over three years, 2005–2007. Our findings suggest significant network and homophily effects regarding the status and age of artists at fairs. However, the internationality of fairs and geographic distances between them do not seem to have any effect."
+  featured: false

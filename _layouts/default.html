@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+<meta name="description" content="{{ site.description }}">
+<link rel="stylesheet" href="{{ '/style.css' | relative_url }}"></head><body>
+<nav>
+{%- assign links = "/|About,/assets/cv_grund_feb2022.pdf|CV,/publications.html|Publications,/news.html|News,/teaching.html|Teaching,http://nwcommands.org|nwcommands,/the-lost-codebook.html|The Lost Codebook" | split: "," -%}
+{%- for l in links -%}{%- assign p = l | split: "|" -%}
+<a href="{{ p[0] | relative_url }}"{% if page.url == p[0] or page.nav == p[1] %} aria-current="page"{% endif %}>{{ p[1] }}</a>
+{%- endfor -%}
+</nav>
+{% if page.hero_image %}<header class="hero" style="min-height:{{ page.hero_height | default: '56vh' }};background-image:linear-gradient({{ page.hero_gradient | default: '90deg,rgba(0,0,0,.6),rgba(0,0,0,.05)' }}),url({{ page.hero_image | relative_url }})"><div class="in"><h1>{{ page.hero_title | default: page.title }}</h1>{% if page.hero_sub %}<p>{{ page.hero_sub }}</p>{% endif %}{% if page.hero_link %}<p><a href="{{ page.hero_link_url }}">{{ page.hero_link }}</a></p>{% endif %}</div></header>{% endif %}
+<main>
+{{ content }}
+</main>
+<footer>&copy; Thomas Grund</footer>
+</body></html>

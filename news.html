@@ -1,0 +1,9 @@
+---
+layout: default
+title: News
+---
+<h1>News</h1>
+<p class="muted">Talks, papers, software releases and other announcements.</p>
+<section style="border:0">
+{% for n in site.posts %}{% include news_item.html n=n %}{% else %}<p>Nothing yet.</p>{% endfor %}
+</section>
