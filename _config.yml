@@ -1,7 +1,6 @@
 title: Thomas Grund
 description: Thomas Grund, Full Professor of Sociology, RWTH Aachen University.
-url: https://grund-family.github.io
-baseurl: /thomas-u-grund.github.io
+url: http://grund.co.uk
 exclude: [README.md]
 defaults:
   - scope: {path: "", type: posts}
